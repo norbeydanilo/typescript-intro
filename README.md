@@ -1,6 +1,16 @@
-# typescript
+# Ejercicios Typescript
 
-## CommonJS
+## Ejercicio Módulo 1 Microsoft Learn
+
+## Ejercicio guia explicativa
+
+## Calculadora 01
+
+## Calculadora 02
+
+## Diferencia entre CommonJS y ES Modules
+
+### CommonJS
 
 CommonJS es un sistema de módulos que se utiliza en Node.js para importar y exportar módulos o funcionalidades.
 
@@ -31,7 +41,7 @@ Y luego importarlo así:
 const valor = require('./archivo.js');
 ```
 
-## ES modules
+### ES modules
 
 Es importante mencionar que hay otro sistema de módulos llamado ES Modules (Módulos ES), que es el sistema de módulos oficial y estandarizado para JavaScript. La sintaxis para importar y exportar en ES Modules es ligeramente diferente. Por ejemplo, para exportar e importar en ES Modules se hace de la siguiente manera:
 
