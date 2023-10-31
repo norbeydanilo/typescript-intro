@@ -62,6 +62,8 @@ Realice lo siguiente:
 tsc calculadora.ts -w
 ```
 
+El parámetro `-w` es para el `watch mode` (modo de vigilancia).
+
 ¿Qué archivo se genera en la carpeta?
 
 3. Ejecute el archivo `calculadora.js` que se generó en el paso anterior.
